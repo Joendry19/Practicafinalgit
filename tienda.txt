@@ -1,0 +1,4 @@
+tienda.txt
+sombreros
+calzados
+vestidos
