@@ -1,4 +1,7 @@
 tienda.txt
+maquillaje
 sombreros
+jolleria
+cartera
 calzados
 vestidos
